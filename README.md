@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emencke
 - 👀 I’m interested in solving operational problems via software (DevOps)
-- 🌱 I’m currently learning Python, React.JS
+- 🌱 I’m currently learning Python, Django
 - 💞️ I’m looking to collaborate on anything Cisco Voice or Asterisks
 - 📫 How to reach me @emencke on the twitter
 
